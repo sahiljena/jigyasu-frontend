@@ -3,6 +3,8 @@ One stop portal which will contain all the information about all academic activi
 <br><br>
 Check out the live site - [**JigYasu**](https://jigyasu-ds.netlify.app/)
 
+Check out the Backend Repository site - [**JigYasup-Backend**](https://github.com/gaurangagarwal15/jigyasu-backend)
+
 ![](https://img.shields.io/github/forks/sahiljena/jigyasu-frontend?color=green&style=for-the-badge)
 ![](https://img.shields.io/github/stars/sahiljena/jigyasu-frontend?color=silver&style=for-the-badge)
 ![](https://img.shields.io/github/license/sahiljena/jigyasu-frontend?color=yellow&style=for-the-badge)
